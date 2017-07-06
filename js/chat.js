@@ -6,11 +6,11 @@ var chatArray = [
 	"My stocks tanked.",
 	"That sounds stressful.",
 	"Breathe with the shape for 2 min then lets talk..",
-	"https://s3-ap-southeast-1.amazonaws.com/bot-content/gifs/Breathing/dbreathe1.gif",
+	"Breathing now ...",
 	"Ok, did that.",
 	"So you're stressed because your stocks tanked. Feeling anxious?",
 	"Feeling bad about myself.",
-	"https://s3-ap-southeast-1.amazonaws.com/bot-content/gifs/Empathy/okay+to+not+be+okay.gif",
+	"What can I do?",
 	"The situation is what it is. Your thoughts are making you feel bad about yourself.",
 	"Shall we try challenging those thoughts?",
 	"Okay.."
